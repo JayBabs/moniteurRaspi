@@ -1,2 +1,2 @@
 # moniteurRaspi
-Script simple permettant de relever des informations utile 
+Script simple permettant de relever des informations utiles 
